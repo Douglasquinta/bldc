@@ -139,7 +139,7 @@
 #define CURRENT_AMP_GAIN		20.0 
 #endif
 #ifndef CURRENT_SHUNT_RES
-#define CURRENT_SHUNT_RES		(0.0005 / 3.0) 
+#define CURRENT_SHUNT_RES		(0.005 / 3.0) 
 #endif
 
 // Input voltage
